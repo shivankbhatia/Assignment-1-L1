@@ -8,7 +8,7 @@ setup(
   author = 'Shivank Bhatia',                   # Type in your name
   author_email = 'bhatiashivankwork@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/shivankbhatia/Assignment-1-L1',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/shivankbhatia/Assignment-1-L1/archive/v_01.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/shivankbhatia/Assignment-1-L1/archive/refs/tags/v_01.tar.gz',    # I explain this later on
   keywords = ['TOPSIS', 'Rankings'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'validators',
