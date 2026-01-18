@@ -85,3 +85,6 @@ impacts = [+,+,-,+,+]
 - The number of weights, number of impacts and number of columns (from 2nd to last columns) must be the same.
 - Impacts must be either +ve or -ve.
 - Impacts and weights must be separated by ‘,’ (comma).
+
+## **License**
+[MIT Licence](https://github.com/shivankbhatia/Assignment-1-L1/blob/main/LICENSE.txt)
